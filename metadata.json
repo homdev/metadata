@@ -1,0 +1,13 @@
+{
+  "chainId": 103,
+  "address": "FmjSRGKf4fBpx1qN8aPbjCrK8Sbg7z1CAWL6YgeE86ay",
+  "symbol": "THUG",
+  "name": "Thug Token",
+  "decimals": 0,
+  "logoURI": "https://www.veeforu.com/wp-content/uploads/2024/07/Black-color-thug-life-goggles-emoji-icon-png-free-download.png",
+  "tags": ["meme"],
+  "extensions": {
+    "website": "https://thugs.com",
+    "twitter": "https://twitter.com/thugs"
+  }
+}
